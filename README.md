@@ -13,3 +13,12 @@ This project analyzes the Titanic dataset to understand survival patterns.
 - Pandas
 - Seaborn
 - Matplotlib
+
+## Insights
+- Females had higher survival rates  
+- Higher class passengers survived more  
+- Fare positively influenced survival  
+- Family size impacted survival chances  
+
+## Project Link
+Kaggle Notebook: [add your kaggle link]
