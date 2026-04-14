@@ -21,4 +21,9 @@ This project analyzes the Titanic dataset to understand survival patterns.
 - Family size impacted survival chances  
 
 ## Project Link
-Kaggle Notebook: [add your kaggle link]
+Kaggle Notebook: https://www.kaggle.com/code/balaji069/titanic-data-analysis-beginner-project
+
+Machine Learning:
+- Built Random Forest model
+- Achieved ~80% accuracy
+- Performed feature importance analysis
